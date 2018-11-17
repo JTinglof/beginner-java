@@ -4,7 +4,6 @@
     does not in any way guarantee that it is error free.  You are responsible
     for testing your program.
     Alan Riggins
-    CS310 Fall 2017
 */    
 
 
