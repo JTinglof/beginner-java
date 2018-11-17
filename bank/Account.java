@@ -1,7 +1,4 @@
 /**
- *  Program #5
- *  This is the super class for all account types in the bank.
- *  CS108-2
  *  11-1-16
  *  @author  Joseph Tinglof
  */
