@@ -39,7 +39,6 @@ public class Prog2b {
 			userNums2[Swap1] = userNums1[Swap2];
 			userNums2[Swap2] = holder;
 			
-			System.out.println("Program 2b, Joseph Tinglof, masc0752");
 			//Prints both arrays
 			for(i = 0; i < arraySize; i++){
 				System.out.print(userNums1[i] + " ");
