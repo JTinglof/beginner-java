@@ -29,7 +29,6 @@ public class LabeledPoint {
 		System.out.println("Program 4, Joseph Tinglof, masc0752");
 		Scanner radar = new Scanner(System.in);
 		
-		System.out.println("Please enter the X, the Y and the label of the point.");
 		String label = radar.nextLine();
 		int x = radar.nextInt();
 		int y = radar.nextInt();
