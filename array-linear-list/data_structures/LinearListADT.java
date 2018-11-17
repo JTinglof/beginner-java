@@ -1,6 +1,4 @@
-/*  Your name
-    Your cssc account number
-*/
+
 
 package data_structures;
 
