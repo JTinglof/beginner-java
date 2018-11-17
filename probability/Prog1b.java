@@ -1,9 +1,7 @@
 
 /**
- *  Program #1b
  *  This program records the frequency a specific dice rolls 
  *  occurs when two dice are rolled.
- *  CS108-2
  *  9-13-16
  *  @author  Joseph Tinglof
  */
