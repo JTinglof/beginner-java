@@ -1,8 +1,3 @@
-/* Program #3
-   Joseph Tinglof
-   cssc0944
-*/
-
 import java.util.Iterator;
 import data_structures.*;
 
