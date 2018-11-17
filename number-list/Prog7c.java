@@ -1,7 +1,5 @@
 /**
- *  Program #7c
  *  This program will take an array of numbers and find the index of a desired value.
- *  CS108-2
  *  11-29-16
  *  @author  Joseph Tinglof
  */
