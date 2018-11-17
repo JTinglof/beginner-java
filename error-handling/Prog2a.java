@@ -31,7 +31,6 @@ public class Prog2a {
 				arraySum = arraySum + userNums[i];
 			}
 		
-			System.out.println("Program 2a, Joseph Tinglof, masc0752");
 			//Finds the average value of the indexes and prints out
 			//the distance from each for every index
 			for(i = 0; i< arraySize; i++){
