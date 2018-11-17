@@ -1,8 +1,6 @@
 /**
- *  Program #4b
  *  This program will simulate a combination lock.
  *  CS108-2
- *  10-18-16
  *  @author  Joseph Tinglof
  */
 import java.util.Scanner;
