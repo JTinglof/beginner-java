@@ -11,7 +11,6 @@ import java.util.ArrayList;
 public class BankDriver {
 	
 	public static void main(String[] args) {
-		System.out.println("Program 2a, Joseph Tinglof, masc0752");
 		Bank bank = new Bank();
 
 		System.out.println("Creating accounts...");
