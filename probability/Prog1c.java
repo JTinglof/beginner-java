@@ -1,9 +1,7 @@
 
 /**
- *  Program #1c
  *  This program displays how voters ranked the importance of five issues
  *  on a scale of 1 to 10. It also displays the averages of the answers. 
- *  CS108-2
  *  9-13-16
  *  @author  Joseph Tinglof
  */
