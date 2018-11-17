@@ -1,8 +1,6 @@
 /**
- *  Program #4a
  *  This program creates a new class called LabeledPoint.
  *  Users can give their point a coordinate and a name.
- *  CS108-2
  *  10-18-16
  *  @author  Joseph Tinglof
  */
