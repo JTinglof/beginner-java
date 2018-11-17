@@ -73,8 +73,6 @@ public class ComboLock {
 
 	public static void main(String[] args){
 		
-		System.out.println("Program 3, Joseph Tinglof, masc0752");
-		
 		Scanner radar = new Scanner(System.in); 
 		int clicks = 0; 
 		
