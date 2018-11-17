@@ -1,8 +1,6 @@
 /**
- *  Program #4c
  *  This program creates a subclass of the Rectangle class 
  *  with the ability to calculate area and perimeter. 
- *  CS108-2
  *  10-18-16
  *  @author  Joseph Tinglof
  */
