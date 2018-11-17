@@ -31,7 +31,6 @@ public class BetterRectangle extends Rectangle{
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Program 4, Joseph Tinglof, masc0752");
 		Scanner radar = new Scanner(System.in);
 		
 		System.out.println("Please enter the X, the Y, the width and the height of the rectangle.");
