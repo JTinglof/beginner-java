@@ -1,7 +1,4 @@
-/* Program #1
-   Joseph Tinglof
-   cssc0944
-*/
+
 
 package data_structures;
 
