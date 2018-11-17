@@ -1,7 +1,4 @@
 /**
- *  Program #5
- *  This is a type of bank account that earns a set rate over time.
- *  CS108-2
  *  11-1-16
  *  @author  Joseph Tinglof
  */
