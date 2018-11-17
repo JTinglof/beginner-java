@@ -1,9 +1,7 @@
 /**
- *  Program #2b
  *  This program takes a series of numbers inputed by the user and switches two of
  *  them, all while handling errors gracefully.
  *  sum of two dice rolls.
- *  CS108-2
  *  9-13-16
  *  @author  Joseph Tinglof
  */
