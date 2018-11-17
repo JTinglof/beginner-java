@@ -26,7 +26,6 @@ public class Prog7b {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Program 7, Joseph Tinglof, masc0752");
 		System.out.println("Type phrase");
 		Scanner scrn = new Scanner(System.in);
 		String test = scrn.nextLine();
