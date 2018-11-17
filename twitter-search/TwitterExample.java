@@ -1,8 +1,6 @@
 /**
- *  Program #8
  *  This program displays a desired number of the most recent Tweets that use a 
  *  user specified word or phrase. 
- *  CS108-2
  *  12-13-16
  *  @author  Joseph Tinglof
  */
@@ -22,7 +20,6 @@ public class TwitterExample {
     	
     	try{
     		//Asks for and stores desired number of Tweets and topic to search for.
-    		System.out.println("Program 8, Joseph Tinglof, masc0752");
     		System.out.println("Please enter the word or phrase you would like to search for:");
     		searchTerm = radar.nextLine();
     		System.out.println("Please enter the number of tweets you would like displayed.");
