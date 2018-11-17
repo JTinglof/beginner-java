@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
 /**
- *  Program #3
  *  This program will take a image and return copies color shifted
  *  to appear grey, blue, red and green.
- *  CS108-2
  *  10-4-16
  *  @author  Joseph Tinglof
  */
