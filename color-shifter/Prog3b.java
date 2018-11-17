@@ -7,9 +7,7 @@ import java.util.Scanner;
  *  @author  Joseph Tinglof
  */
 public class Prog3b {
-
 	public static void main(String[] args) {
-		System.out.println("Program 3, Joseph Tinglof, masc0752");
 		
 		Scanner scan = new Scanner(System.in);
 		ImageConverter ic = new ImageConverter();
