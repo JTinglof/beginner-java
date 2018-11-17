@@ -1,9 +1,7 @@
 
 /**
- *  Program #1a
  *  This program records the frequency a number appears by a taking the 
  *  sum of two dice rolls.
- *  CS108-2
  *  9-13-16
  *  @author  Joseph Tinglof
  */
