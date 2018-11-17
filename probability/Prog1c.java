@@ -47,9 +47,6 @@ public class Prog1c {
 		average[0] = 6.425; average[1] = 3.0; average[2] = 4.625; //Initializes the averages of the 
 		average[3] = 5.05; average[4] = 5.5;                      // voter ranking
 		
-		
-		System.out.println("Program 1, Joseph Tinglof, masc0752");
-		
 		System.out.print("                       ");
 		for(i = 1; i < 11; i++){
 			System.out.printf(" %4d", i);
