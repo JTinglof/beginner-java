@@ -1,7 +1,4 @@
 /**
- *  Program #5
- *  This class creates a bank into which accounts can be created and saved.
- *  CS108-2
  *  11-1-16
  *  @author  Joseph Tinglof
  */
