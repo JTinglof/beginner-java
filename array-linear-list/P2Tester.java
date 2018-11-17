@@ -2,9 +2,7 @@
     understand what the tester is doing and why.  Be sure to add additionals tests
     on your own.  The fact that your program may work with this tester without error
     does not mean your code is error free.
-    
     Alan Riggins
-    CS310 Fall 2017
 */    
 
 import data_structures.*;
