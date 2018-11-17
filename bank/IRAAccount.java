@@ -1,8 +1,4 @@
 /**
- *  Program #5
- *  This is a special type of savings account designed for long term
- *  savings.
- *  CS108-2
  *  11-1-16
  *  @author  Joseph Tinglof
  */
