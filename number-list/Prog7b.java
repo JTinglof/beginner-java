@@ -1,7 +1,5 @@
 /**
- *  Program #7b
  *  This program will accept a string and determine if the string is a palindrome.
- *  CS108-2
  *  11-29-16
  *  @author  Joseph Tinglof
  */
