@@ -22,7 +22,6 @@ public class Prog7a {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Program 7, Joseph Tinglof, masc0752");
 		System.out.println("What number would you like to reversed?");
 		Scanner scrn = new Scanner(System.in);
 		String newNum = scrn.nextLine();
