@@ -1,7 +1,5 @@
 /**
- *  Program #7a
  *  This program will accept a list of numbers and then return list backwards.
- *  CS108-2
  *  11-29-16
  *  @author  Joseph Tinglof
  */
