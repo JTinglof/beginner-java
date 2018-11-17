@@ -1,9 +1,7 @@
 /**
- *  Program #2a
  *  This program takes a series of numbers inputed by the user and finds the distance
  *  from the average of each, all while handling errors gracefully.
  *  CS108-2
- *  9-13-16
  *  @author  Joseph Tinglof
  */
 
