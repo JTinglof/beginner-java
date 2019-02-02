@@ -1,2 +1,2 @@
-# beginner-java
-School work done in Java
+# Beginner Java
+A collection of simple projects done in java.
