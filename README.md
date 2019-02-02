@@ -1,2 +1,2 @@
 # Beginner Java
-A collection of simple projects done in java.
+A collection of simple projects done in Java.
