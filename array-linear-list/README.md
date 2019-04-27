@@ -1,6 +1,6 @@
-# Linear List
+# Array Linear List
 
-In this project I immplemented a Linear List data structure using abstract data types or ADT.
+In this project I implemented a Linear List data structure using abstract data types or ADT.
 
 ## Getting Started
 
