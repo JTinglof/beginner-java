@@ -9,7 +9,7 @@ show the functionality of the program.
 
 ## Built With
 
-* Straight Java
+* vanilla Java
 
 ## Acknowledgments
 
