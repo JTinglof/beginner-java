@@ -1,10 +1,10 @@
 # Array Linear List
 
-In this project I implemented a Linear List data structure using abstract data types or ADT.
+In this project I implemented a Linear List data structure using abstract data types (ADT).
 
 ## Getting Started
 
-you will find the code for this program in the data strcures folder. The Grader, Tester and Driver program are available to 
+You will find the code for this program in the data structures folder. The Grader, Tester and Driver programs are available to 
 show the functionality of the program. 
 
 ## Usage
