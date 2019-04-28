@@ -7,6 +7,7 @@ public class DictionaryTester {
         final int SIZE = 10000;
         long start, stop;
         int [] array = new int[SIZE];
+//Select your data structure here
         DictionaryADT<Integer,Integer> dictionary = 
             new Hashtable<Integer,Integer>(SIZE);
           // new BinarySearchTree<Integer,Integer>();
