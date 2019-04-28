@@ -9,9 +9,6 @@ In the command line navigate to the directory and compile using javac command. T
 
 > java DictionaryTester
 
-## Acknowledgments
-
-* Hat tip to Alan Riggins for the GridCell.java and MazeGrid.java file.
 
 ## License
 
