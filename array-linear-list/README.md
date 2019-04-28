@@ -9,7 +9,7 @@ show the functionality of the program.
 
 ## Usage
 
-In the command line navigate to the data strucutre directory and type:
+In the command line navigate to the data structures directory and type:
 
 > javac LinearListADT.java
 
