@@ -9,8 +9,9 @@ show the functionality of the program.
 
 ## Usage
 
-In the command line type:
+In the command line navigate to the data strucutre directory and type:
 
+> javac LinearListADT.java
 > javac ArrayLinearList.java
 
 Then complie your driver:
@@ -19,14 +20,14 @@ Then complie your driver:
 
 Then run your driver via:
 
-java [DriverName].java
+> java [DriverName].java
 
 ## Acknowledgments
 
 * Hat tip to Alan Riggins for the tester programs.
 
-## Usage
+## License
 
-In the command line type:
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-> python prog4_[version number] [yourfile].txt
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
