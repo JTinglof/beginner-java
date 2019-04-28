@@ -1,10 +1,3 @@
-/*  Here is an additional test program for your first project.  Look at and try to
-    understand what the tester is doing and why.  Be sure to add additionals tests
-    on your own.  The fact that your program may work with this tester without error
-    does not mean your code is error free.
-    Alan Riggins
-*/    
-
 import data_structures.*;
 
 public class P2Tester {
