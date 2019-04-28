@@ -1,6 +1,6 @@
 # Twitter Search
 
-This project I created a program to displays a desired number of the most recent Tweets that use a user specified word or phrase. 
+In this project I created a program that displays a desired number of the most recent Tweets that use a user specified word or phrase. 
 
 ## Usage
 
