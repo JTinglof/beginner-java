@@ -3,7 +3,7 @@ A collection of simple projects done in the Java programming languages. Program 
 
 ## Notable Projects
  
-* twitter-search
+* array-linear-list
 * maze-solver
 * phonebook
-* array-linear-list
+* twitter-search
