@@ -1,6 +1,3 @@
-    
-
-
 import data_structures.*;
 
 public class P1Driver {
