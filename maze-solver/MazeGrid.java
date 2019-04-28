@@ -1,7 +1,6 @@
 /*	MazeGrid.java
     The GUI for the MazeSolver class
 	Alan Riggins
-	CS310 Fall 2017
 */    
 
 import java.awt.*;
