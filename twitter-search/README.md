@@ -10,10 +10,6 @@ In the command line navigate to the directory and compile using javac command. T
 
 Then follow the prompts.
 
-## Acknowledgments
-
-* Hat tip to Alan Riggins for the GridCell.java and MazeGrid.java file.
-
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
