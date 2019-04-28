@@ -12,6 +12,7 @@ show the functionality of the program.
 In the command line navigate to the data strucutre directory and type:
 
 > javac LinearListADT.java
+
 > javac ArrayLinearList.java
 
 Then complie your driver:
