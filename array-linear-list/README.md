@@ -15,7 +15,7 @@ In the command line navigate to the data structures directory and type:
 
 > javac ArrayLinearList.java
 
-Then complie your driver:
+Then compile your driver:
 
 > javac [DriverName].java
 
