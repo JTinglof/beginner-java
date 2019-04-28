@@ -1,6 +1,6 @@
 # Phonebook
 
-In this project I a implement a phonebook. In the DictionaryTester.java program you can select which data structure will store the data.
+In this project I implemented a phonebook. In the DictionaryTester.java program you can select which data structure will store the data.
 You can choose between a Linear List, a Hashtable, Binary Search Tree, Balanced Tree. 
 
 ## Usage
