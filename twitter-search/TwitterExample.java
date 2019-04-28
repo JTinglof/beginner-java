@@ -1,7 +1,6 @@
 /**
  *  This program displays a desired number of the most recent Tweets that use a 
  *  user specified word or phrase. 
- *  12-13-16
  *  @author  Joseph Tinglof
  */
 
