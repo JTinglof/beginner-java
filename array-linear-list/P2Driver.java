@@ -1,12 +1,3 @@
-/*  This driver goes in the level above data_structures
-    Driver for program #1.  This simple tester/driver is just a sample.
-    The fact that your program might run without errors with this driver
-    does not in any way guarantee that it is error free.  You are responsible
-    for testing your program.
-    Alan Riggins
-*/    
-
-
 import data_structures.*;
 
 public class P2Driver {
