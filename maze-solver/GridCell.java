@@ -2,7 +2,6 @@
     A wrapper class that holds the xy coordinates, and distance from the origin
     (0,0) of a cell in the Grid.
     Alan Riggins
-    CS310 Fall 2017
 */    
 
 public class GridCell implements Comparable<GridCell> {
