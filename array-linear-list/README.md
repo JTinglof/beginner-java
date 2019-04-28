@@ -7,10 +7,6 @@ In this project I implemented a Linear List data structure using abstract data t
 In the data structures folder is where you will find the code for this program. The Grader, Tester and Driver program are available to 
 show the functionality of the program. 
 
-## Built With
-
-* vanilla Java
-
 ## Acknowledgments
 
 * Hat tip to Alan Riggins for the tester programs.
